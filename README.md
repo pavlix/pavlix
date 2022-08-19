@@ -4,7 +4,7 @@ Freelance software developer. Rust enthusiast and haskell learner. Working with 
 
 I used to be a full-time remote developer for Red Hat where I was the first person to drive the necessary change to make NetworkManager less painful on servers and virtual hosts. I got myself involved in IPv6 and DNSSEC efforts and in community efforts to make things work well across Linux distributions. Now I mostly work with smaller companies to get their products more easily integrated in embedded Linux systems.
 
-In the upcoming years I would like to work with embedded software companies that understand the value of safe programming and consider switching from C and C++ to Rust. At the same time I can still provide support for C and C++ developers as I did before.
+In the upcoming years I am going to work with embedded software companies that understand the value of safe programming and consider switching from C and C++ to Rust. At the same time I can still provide support for C and C++ developers as I did before.
 
 <!--
 **pavlix/pavlix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
